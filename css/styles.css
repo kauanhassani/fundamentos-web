@@ -1,0 +1,43 @@
+/*Estilos da Index.html*/
+
+.center{
+    text-align: center;
+}
+
+/*Estilos do About.html*/
+
+#p-first{
+    font-weight: bold;
+}
+
+.p-color{
+    color: #e7650e;
+}
+
+.container{
+    display: flex;
+    align-items: center; /* vertical */
+    justify-content: space-around; /* horizontal */
+
+    border: 5px solid orangered;
+    padding: 20px;
+    margin: 20px;
+}
+
+.content{
+    font-size: 20px;
+}
+/*Estilos da Contato.html*/
+
+
+p{
+    font-size: 20px;
+}
+
+
+img{
+    width: 640px;
+    height: 360px;
+}
+
+
